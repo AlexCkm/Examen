@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">examenPractico</string>
+    <string name="Formulario">Formulario de alumno</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Calle">Calle</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="PrefiereNoDecirlo">Prefiere no decirlo</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Asignaturas">Asignaturas</string>
+    <string name="Historia">Historia </string>
+    <string name="Geografia">Geografia</string>
+    <string name="Arqueologia">Arquelogia</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Spinner">Spinner</string>
+    <string name="Info">Info</string>
+    <string name="Boton">Volver</string>
+</resources>
